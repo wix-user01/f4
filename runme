@@ -1,0 +1,3 @@
+# Run server
+#===============
+./node_modules/blueimp-file-upload-node/server.js 2>&1 > ./logs/server.log &
